@@ -1,16 +1,15 @@
-## Hi there 👋
+# Oi, eu sou o Pedro 👋
 
-<!--
-**Pedrohv850/Pedrohv850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software e Técnico em Informática (IFFar).
 
-Here are some ideas to get you started:
+## O que eu faço
+- Sites e pequenos sistemas web para negócios
+- HTML, CSS, JavaScript, PHP e SQL
+- Estou criando um jogo em pixel art com Godot (programação, arte e música feitas por mim)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Em andamento
+- Montando meu portfólio com projetos web
+- Aprofundando em JavaScript
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-vieira-benites-da-rosa-b32b74360/)
